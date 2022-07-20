@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T02:05:26.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" version="20.1.2" etag="dLFd0JB-yT8cIZSOFLbz" type="github"><diagram id="6yphp8aoA7_XfXcChLZt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-20T02:17:09.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="aw5Sbg-b6we6uEON7jDM" version="20.1.2" type="github">
+  <diagram id="6yphp8aoA7_XfXcChLZt" name="Page-1">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TMj-AL9TwiqXuO-eU-_D-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TMj-AL9TwiqXuO-eU-_D-2" target="TMj-AL9TwiqXuO-eU-_D-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TMj-AL9TwiqXuO-eU-_D-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TMj-AL9TwiqXuO-eU-_D-2" target="TMj-AL9TwiqXuO-eU-_D-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="100" />
+              <mxPoint x="690" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMj-AL9TwiqXuO-eU-_D-2" value="TMS.Availabilty.API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMj-AL9TwiqXuO-eU-_D-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TMj-AL9TwiqXuO-eU-_D-3" target="TMj-AL9TwiqXuO-eU-_D-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TMj-AL9TwiqXuO-eU-_D-3" value="TMS.Availabilty.BusinessLogic" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="210" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMj-AL9TwiqXuO-eU-_D-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TMj-AL9TwiqXuO-eU-_D-5" target="TMj-AL9TwiqXuO-eU-_D-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TMj-AL9TwiqXuO-eU-_D-5" value="TMS.Availability.DataAccess" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMj-AL9TwiqXuO-eU-_D-7" value="TMS.Availability.Domain" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="490" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMj-AL9TwiqXuO-eU-_D-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TMj-AL9TwiqXuO-eU-_D-9" target="TMj-AL9TwiqXuO-eU-_D-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TMj-AL9TwiqXuO-eU-_D-9" value="TMS.Availabilty.Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
